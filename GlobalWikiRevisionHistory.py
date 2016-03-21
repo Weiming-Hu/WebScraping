@@ -6,7 +6,7 @@ import re
 from pip._vendor.requests.exceptions import HTTPError
 import json
 
-# Web scrapying chapter 3
+# Web scrapying chapter 4
 # user IP from Wiki articles and locate them to countries
 
 def getLinks(articleUrl):
