@@ -38,5 +38,5 @@ def waitUntilLoadedButton():
 
 if __name__ == '__main__':
 #     showPreloadHTML()
-#     waitUntilLoadedButton()
+    waitUntilLoadedButton()
     
